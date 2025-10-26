@@ -1,10 +1,14 @@
 
 <body>
-
+  
   <section class="section">
     <div class="intro">
+      <div align="center">
+        <h1>HELLO I'M ASHWIN✌️</h1>
+        <img src="https://tenor.com/en-GB/view/pixelart-gif-22129425" width="50%" />
+        <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+      </div>
       <div class="intro-text">
-        <h1>💫 HELLO I'M ASHWIN</h1>
         <p>
           -> Currently pursuing B.Tech in Computer Science and Business Systems (CSBS) at SRM Institute of Science and Technology (SRM IST).</strong><br>
         <br>
@@ -15,11 +19,15 @@
       </div>
     </div>
   </section>
+  <!-- Neon Divider -->
+
 
 
   
 
   <section class="section">
+    <!-- Neon Divider -->
+    <div align="center">
     <h2>🌐 Socials</h2>
     <p class="badges">
       <a href="https://discord.gg/ashwin_07" target="_blank">
@@ -35,9 +43,11 @@
         <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
       </a>
     </p>
+    </div>
   </section>
 
   <section class="section">
+    <div align="center">
     <h2>💻 Tech Stack</h2>
     <p class="badges">
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -69,13 +79,16 @@
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     </p>
+    </div>
   </section>
 
   <section class="section stats">
+    <div align="center">
     <h2>📊 GitHub Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=ashwin12r&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
     <img src="https://nirzak-streak-stats.vercel.app/?user=ashwin12r&theme=dark&hide_border=false" alt="GitHub Streak">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin12r&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    </div>
   </section>
 
   <hr>
