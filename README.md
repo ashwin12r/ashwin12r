@@ -4,18 +4,10 @@
   <section class="section">
     <div class="intro">
       <div align="center">
-        <h1>HELLO I'M ASHWIN✌️</h1>
-        <img src="https://tenor.com/en-GB/view/pixelart-gif-22129425" width="50%" />
+        <h1>⚡HELLO I'M ASHWIN⚡</h1>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=CD62F7&center=true&vCenter=true&width=435&lines=FULL+STACK+DEVELOPER;EXPLORING+CYBERSECURITY;....(+%CD%A1%C2%B0+%CD%9C%CA%96+%CD%A1%C2%B0)....(%E2%89%A7%E2%88%87%E2%89%A6)...." alt="Typing SVG" /></a>
+        <img src="License/codegif1.gif" width="80%" />
         <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-      </div>
-      <div class="intro-text">
-        <p>
-          -> Currently pursuing B.Tech in Computer Science and Business Systems (CSBS) at SRM Institute of Science and Technology (SRM IST).</strong><br>
-        <br>
-          -> A passionate <strong>full-stack developer</strong> skilled in creating dynamic and user-centric web applications.<br>
-        <br>
-          -> Presently exploring <strong>cybersecurity</strong> to gain deeper insights into digital defense and ethical hacking.<br>
-        </p>
       </div>
     </div>
   </section>
@@ -31,18 +23,19 @@
     <h2>🌐 Socials</h2>
     <p class="badges">
       <a href="https://discord.gg/ashwin_07" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
+        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" width="10%">
       </a>
       <a href="https://instagram.com/ash___.r" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="12%">
       </a>
       <a href="https://linkedin.com/in/ashwin-ramesh-198094288" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="8%">
       </a>
       <a href="mailto:ashwin.breeks@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" width="8%">
       </a>
     </p>
+    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
     </div>
   </section>
 
@@ -79,6 +72,7 @@
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     </p>
+    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
     </div>
   </section>
 
@@ -88,6 +82,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ashwin12r&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
     <img src="https://nirzak-streak-stats.vercel.app/?user=ashwin12r&theme=dark&hide_border=false" alt="GitHub Streak">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin12r&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
     </div>
   </section>
 
