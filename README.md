@@ -2,15 +2,22 @@
 <body>
 
   <section class="section">
-    <h1>💫 HELLO I'M ASHWIN</h1>
-    <p>
-      I'm currently studying at <strong>SRM IST (B.Tech. CSBS)</strong><br>
-      I'm a <strong>full-stack developer</strong><br>
-      I'm presently learning <strong>cybersecurity</strong> courses<br>
-    </p>
+    <div class="intro">
+      <div class="intro-text">
+        <h1>💫 HELLO I'M ASHWIN</h1>
+        <p>
+          -> Currently pursuing B.Tech in Computer Science and Business Systems (CSBS) at SRM Institute of Science and Technology (SRM IST).</strong><br>
+        <br>
+          -> A passionate <strong>full-stack developer</strong> skilled in creating dynamic and user-centric web applications.<br>
+        <br>
+          -> Presently exploring <strong>cybersecurity</strong> to gain deeper insights into digital defense and ethical hacking.<br>
+        </p>
+      </div>
+    </div>
   </section>
 
 
+  
 
   <section class="section">
     <h2>🌐 Socials</h2>
